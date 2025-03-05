@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "gh-contributions",
+    "version": "1.0.0",
+    "description": "Simple chrome extension to set color themes to the contributions graph on GitHub.",
+    "icons": {
+      "48": "images/icon.png"
+    }
+  }

@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ Issues
 
-Found a bug or need help? Please create an issue on the [GitHub repository](https://github.com/yashksaini-coder/youtube-vid-summarizer/issues) with a detailed description.
+Found a bug or need help? Please create an issue on the [GitHub repository](https://github.com/yashksaini-coder/gh-contribution-extension/issues) with a detailed description.
 
 ---
 
