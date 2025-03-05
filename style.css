@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    text-align: center;
+  }
+  #color-picker {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+  }
+  input[type="color"] {
+    width: 40px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+  }
+  button {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+  }
+  button:hover {
+    background: #218838;
+  }
+  
